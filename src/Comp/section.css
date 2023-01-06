@@ -1,0 +1,37 @@
+.row10{
+   background-image: url('https://file.hbfile.net/global/en-us/static/img/c910206.png') !important;
+   background-size: cover !important;
+   background-position: center !important;
+   height: 75vh !important;
+   width: 100vw !important;
+}
+.h1_1{
+    font-size: 52px !important;
+}
+.para1{
+    font-size: 20px !important;
+    color: #a5a4a5 !important;
+    font-weight: bold !important;
+    text-align: justify !important;
+}
+.btn11{
+    color: white !important;
+    background-color: #13b299 !important;
+    border-color: #13b299 !important;
+    border-radius: 0px  !important;
+}
+.input203{
+    color: black !important;
+    font-weight: bolder !important;
+}
+.para2{
+    color: #a5a4a5 !important;
+    font-size: 14px !important;
+}
+.para3{
+    color: #a5a4a5 !important;
+    font-size: 14px !important;
+}
+.span1{
+    color: rgb(70, 65, 65) !important;
+}
